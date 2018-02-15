@@ -1,5 +1,13 @@
 
 .header {
-    font-size:30px;
+    font-size:50px;
     text-align:center;
+}
+.access {
+    font-size:32px;
+    text-align:center;
+}
+
+.disabilities {
+    display:inline;
 }
